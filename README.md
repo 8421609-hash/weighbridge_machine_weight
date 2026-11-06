@@ -832,6 +832,6 @@ Possible future enhancements include:
 - **Syed Raheel Ahmed Shah**
 - **Adnan Majeed**
 
-Computer Science Student | Python | Software Development
+Orbit Consulting SMC-Pvt Ltd | Python | Software Development
 
 ---
