@@ -828,9 +828,9 @@ Possible future enhancements include:
 ---
 
 ## 👨‍💻 Author
-**Ahmed Bilal**
-**Syed Raheel Ahmed Shah**
-**Adnan Majeed**
+- **Ahmed Bilal**
+- **Syed Raheel Ahmed Shah**
+- **Adnan Majeed**
 
 Computer Science Student | Python | Software Development
 
